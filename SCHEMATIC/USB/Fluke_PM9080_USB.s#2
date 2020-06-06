@@ -5950,11 +5950,17 @@ Source: http://www.osram.convergy.de/</description>
 <wire x1="-2.9718" y1="1.4478" x2="-2.9718" y2="1.0668" width="0.1524" layer="21"/>
 <wire x1="-2.9718" y1="-1.2446" x2="-2.9718" y2="-2.9972" width="0.1524" layer="21"/>
 <wire x1="2.9718" y1="1.0668" x2="2.9718" y2="1.4478" width="0.1524" layer="21"/>
-<text x="-1.7272" y="1.9558" size="1.27" layer="27" ratio="6" rot="SR0">&gt;Value</text>
+<wire x1="-4.3688" y1="2.5908" x2="-5.1308" y2="2.5908" width="0.508" layer="21" curve="-180"/>
+<wire x1="-5.1308" y1="2.5908" x2="-4.3688" y2="2.5908" width="0.508" layer="21" curve="-180"/>
+<text x="-1.7272" y="1.9558" size="1.27" layer="21" ratio="6" rot="SR0">&gt;Value</text>
 <wire x1="-2.8448" y1="-2.8702" x2="2.8448" y2="-2.8702" width="0.1524" layer="51"/>
 <wire x1="2.8448" y1="-2.8702" x2="2.8448" y2="2.8702" width="0.1524" layer="51"/>
 <wire x1="2.8448" y1="2.8702" x2="-2.8448" y2="2.8702" width="0.1524" layer="51"/>
 <wire x1="-2.8448" y1="2.8702" x2="-2.8448" y2="-2.8702" width="0.1524" layer="51"/>
+<wire x1="-0.9144" y1="0.6858" x2="-1.6764" y2="0.6858" width="0.508" layer="51" curve="-180"/>
+<wire x1="-1.6764" y1="0.6858" x2="-0.9144" y2="0.6858" width="0.508" layer="51" curve="-180"/>
+<wire x1="-4.3688" y1="2.5908" x2="-5.1308" y2="2.5908" width="0.508" layer="22" curve="-180"/>
+<wire x1="-5.1308" y1="2.5908" x2="-4.3688" y2="2.5908" width="0.508" layer="22" curve="-180"/>
 <text x="-3.2766" y="1.9558" size="1.27" layer="25" ratio="6" rot="SR0">&gt;Name</text>
 </package>
 </packages>
